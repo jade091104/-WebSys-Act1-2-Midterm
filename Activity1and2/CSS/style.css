@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(206, 174, 135);
+    align-content: center;
+}
+h2{ 
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: solid;
+    color: rgb(129, 41, 0);
+}
+p{
+    color: rgba(145, 0, 0, 0.904);
+}
+button{
+    border-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(160, 117, 1, 0.692);
+}
